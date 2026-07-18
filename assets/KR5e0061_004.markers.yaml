@@ -338,6 +338,7 @@ markers:
       ', id: KR5e0061_krp_004-bkkkrnewl52}
   - {type: line-break, offset: 624, content: '', id: KR5e0061_HFL_004-003a09}
   - {type: punctuation, offset: 632, content: (, id: KR5e0061_krp_004-bkkpn1}
+  - {type: voice, offset: 632, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 635, content: /, id: KR5e0061_krp_004-bkkpn2}
   - {type: punctuation, offset: 637, content: ), id: KR5e0061_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 643, content: '
@@ -640,6 +641,7 @@ markers:
   - {type: variant, offset: 1175, length: 6, content: 夜深對月二首, CK-KZ-jye: ''}
   - {type: page-break, offset: 1175, content: '', id: KR5e0061_YP-C_17weiji-03-0096b, image: JY195/17weiji-03-0096b.png}
   - {type: punctuation, offset: 1179, content: (, id: KR5e0061_krp_004-bkkpn4}
+  - {type: voice, offset: 1179, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1181, content: ), id: KR5e0061_krp_004-bkkpn5}
   - {type: 'kr:newline', offset: 1181, content: '
 
@@ -748,6 +750,7 @@ markers:
   - {type: indent, offset: 1391, content: 　　　, id: KR5e0061_krp_004-bkkind51}
   - {type: variant, offset: 1391, length: 5, content: 春夜雨二首, CK-KZ-jye: ''}
   - {type: punctuation, offset: 1394, content: (, id: KR5e0061_krp_004-bkkpn6}
+  - {type: voice, offset: 1394, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1396, content: ), id: KR5e0061_krp_004-bkkpn7}
   - {type: 'kr:newline', offset: 1396, content: '
 
@@ -1871,4 +1874,4 @@ markers:
 
       ', id: KR5e0061_krp_004-bkkkrnewl353}
   back: []
-hash: sha256:a933f0743b8d7d1cf1b5aa8ab2ba5091b08c483f5492994fc728de19e4db88ca
+hash: sha256:3e0cee533dc130e4c77eca038639be68d2492072da358cc49c3b484fadba432b

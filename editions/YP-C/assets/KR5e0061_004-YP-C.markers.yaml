@@ -22,6 +22,7 @@ markers:
       ', id: KR5e0061_YP-C_004-bkkkrnewl4}
   - {type: line-break, offset: 4, content: '', id: KR5e0061_YP-C_17weiji-03-0093a04}
   - {type: punctuation, offset: 11, content: (, id: KR5e0061_YP-C_004-bkkpn1}
+  - {type: voice, offset: 11, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 13, content: ), id: KR5e0061_YP-C_004-bkkpn2}
   - {type: 'kr:newline', offset: 13, content: '
 
@@ -236,6 +237,7 @@ markers:
       ', id: KR5e0061_YP-C_004-bkkkrnewl43}
   - {type: line-break, offset: 622, content: '', id: KR5e0061_YP-C_17weiji-03-0094b07}
   - {type: punctuation, offset: 623, content: (, id: KR5e0061_YP-C_004-bkkpn3}
+  - {type: voice, offset: 623, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 628, content: ), id: KR5e0061_YP-C_004-bkkpn4}
   - {type: line-break, offset: 634, content: '', id: KR5e0061_YP-C_17weiji-03-0094b08}
   - {type: 'kr:newline', offset: 643, content: '
@@ -492,6 +494,7 @@ markers:
       ', id: KR5e0061_YP-C_004-bkkkrnewl97}
   - {type: line-break, offset: 1166, content: '', id: KR5e0061_YP-C_17weiji-03-0096b02}
   - {type: punctuation, offset: 1170, content: (, id: KR5e0061_YP-C_004-bkkpn5}
+  - {type: voice, offset: 1170, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1172, content: ), id: KR5e0061_YP-C_004-bkkpn6}
   - {type: 'kr:newline', offset: 1172, content: '
 
@@ -584,6 +587,7 @@ markers:
       ', id: KR5e0061_YP-C_004-bkkkrnewl116}
   - {type: line-break, offset: 1382, content: '', id: KR5e0061_YP-C_17weiji-03-0097a10}
   - {type: punctuation, offset: 1385, content: (, id: KR5e0061_YP-C_004-bkkpn7}
+  - {type: voice, offset: 1385, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 1387, content: ), id: KR5e0061_YP-C_004-bkkpn8}
   - {type: 'kr:newline', offset: 1387, content: '
 
@@ -1207,4 +1211,4 @@ markers:
 
       ', id: KR5e0061_YP-C_004-bkkkrnewl245}
   back: []
-hash: sha256:b29bd22273ad25e2a304cfeaa195220bf934e149c153756b49800408732e517f
+hash: sha256:00698ad84b33a2831f28f2ea8a9a23fa4bd57aaa13242905ef359b1c062cbf54
